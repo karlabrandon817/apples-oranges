@@ -9,7 +9,10 @@ function longerString(string1, string2) {
   if(string1.length > string2.length){
     alert(string1 + " is longest");
     return string1;
-  }else{
+  }else if(string1.length === string2.length) {
+    alert("Samesies!");
+  }
+  else{
     alert(string2 + " is longest");
     return string2;
   }
