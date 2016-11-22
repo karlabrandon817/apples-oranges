@@ -5,7 +5,9 @@ This code compares two strings - apples and oranges.
 ### Steps
 - create basic file structure and readme - commit
 - source my script - commit
-- add button and link function
+- add button and link function - commit
+- add comparison
+
 
 ### To Do
 Practice Git by trying to extend the code in some of the following ways:
