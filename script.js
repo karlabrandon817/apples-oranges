@@ -1,15 +1,17 @@
 console.log('test');
 
 //longerString takes to strings return the longer one
-function longerString(string1, string2) {
+var myName = prompt("What is your name?");
+
+function longerString(myName, string2) {
   console.log('button clicked - longerString');
-  console.log(string1, string2);
+  console.log(myName, string2);
 
   //compare strings
-  if(string1.length > string2.length){
-    alert(string1 + " is longest");
-    return string1;
-  }else if(string1.length === string2.length) {
+  if(myName.length > string2.length){
+    alert(myName.length + " is longest");
+    return myName;
+  }else if(myName.length === string2.length) {
     alert("Samesies!");
   }
   else{
