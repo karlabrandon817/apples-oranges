@@ -4,6 +4,7 @@ This code compares two strings - apples and oranges.
 
 ### Steps
 - create basic file structure and readme - commit
+- source my script
 
 ### To Do
 Practice Git by trying to extend the code in some of the following ways:
