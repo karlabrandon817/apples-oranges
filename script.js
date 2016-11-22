@@ -9,7 +9,7 @@ function longerString(myName, string2) {
 
   //compare strings
   if(myName.length > string2.length){
-    alert(myName.length + " is longest");
+    alert(myName + " is longest");
     return myName;
   }else if(myName.length === string2.length) {
     alert("Samesies!");
