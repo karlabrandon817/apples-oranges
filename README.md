@@ -4,11 +4,13 @@ This code compares two strings - apples and oranges.
 
 ### Steps
 - create basic file structure and readme - commit
-- source my script
+- source my script - commit
+- add button and link function
 
 ### To Do
 Practice Git by trying to extend the code in some of the following ways:
 
+- fix the equal length string bug
 - adding user input
 - checking if the strings have white space before comparison
 
